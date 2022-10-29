@@ -87,6 +87,8 @@ number 6 and number 7 are almost the same. but number 7 was asked to `www.strix.
 
 ![image](https://user-images.githubusercontent.com/81352414/198837818-80f27e85-af65-471a-bfa4-f909c1fc033d.png)
 
+## this is ping for number 2,3,6, and 7
+![image](https://user-images.githubusercontent.com/81352414/198837872-0397401b-6f49-4b7c-bd8a-63540f6325c5.png)
 
 
 
