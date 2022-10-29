@@ -1,8 +1,8 @@
 # Jarkom-Modul-2-I06-2022
 <strong> Our Members :
-1. Farzana Afifah Razzak - 5025201130
-2. 
-3. </strong>
+1. Farzana Afifah Razzak 
+2. Raihan Farid
+3. Muhammad Azka Aysar </strong>
 
 ## 1. All nodes are connected to Ostania as the router, so they can access the internet. so we ping all node
 ![image](https://user-images.githubusercontent.com/81352414/198834631-a66567ca-218b-43c9-b2c6-267e94d9dc18.png)
