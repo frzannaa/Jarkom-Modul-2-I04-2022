@@ -81,6 +81,11 @@ and we open number 6 `www.operation.wise.i04.com`
 
 ![image](https://user-images.githubusercontent.com/81352414/198837726-4271bbcc-f141-4ca7-a1ee-2a4743f30b00.png)
 
+## 7. create a subdomain via Berlint with access strix.operation.wise.yyy.com with alias www.strix.operation.wise.yyy.com which points to Eden
+
+number 6 and number 7 are almost the same. but number 7 was asked to `www.strix.operation.wise.yyy.co`
+
+![image](https://user-images.githubusercontent.com/81352414/198837818-80f27e85-af65-471a-bfa4-f909c1fc033d.png)
 
 
 
