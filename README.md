@@ -13,11 +13,28 @@
 ![image](https://user-images.githubusercontent.com/81352414/198834749-74ce500f-2411-4d84-bcc5-b7271dd0f90a.png)
 
 ## 2. Help Loid create the main website by accessing wise.yyy.com with alias www.wise.yyy.com on the wise folder
+
 first make dns as usual
+
 ![image](https://user-images.githubusercontent.com/81352414/198834940-76ffa5db-0a04-4bd2-9f4b-8d83f687a5e0.png)
-then we open /etc/bind/wise/wise.i04.com. the post that I highlighted is the answer
+
+then we open /etc/bind/wise/wise.i04.com. the text that I highlighted is the answer to number 2
+
 ![image](https://user-images.githubusercontent.com/81352414/198835005-1ef53d81-59cf-4357-b30d-dc58db751a7f.png)
+
 this is for testing
+
 ![image](https://user-images.githubusercontent.com/81352414/198835116-1c644b99-7988-44a5-a320-e648c9c70cf1.png)
+
+## 3. create a subdomain eden.wise.yyy.com with alias www.eden.wise.yyy.com whose DNS is set on WISE and leads to Eden
+
+numbers 2 and 3 are almost the same, only the domains are different
+
+the text that I highlighted is the answer to number 3
+
+![image](https://user-images.githubusercontent.com/81352414/198835235-a7c36d73-c348-48ba-b889-ed2c0136495a.png)
+
+
+
 
 
