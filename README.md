@@ -63,6 +63,24 @@ ping the sss `www.wise.i04.com`, it will still connect, make sure wise is off be
 
 ![image](https://user-images.githubusercontent.com/81352414/198836193-649452f3-e59d-4154-ab94-192168e7acd0.png)
 
+## 6. make a special subdomain for operations operation.wise.yyy.com with alias www.operation.wise.yyy.com delegated from WISE to Berlint with IP leads to Eden on the folder operation
+
+![image](https://user-images.githubusercontent.com/81352414/198837455-d3e74316-c970-4cf1-bece-d487a7259ef3.png)
+
+then edit the file and it will be like this
+
+![image](https://user-images.githubusercontent.com/81352414/198837510-e5d8b0a4-a360-4d7c-99c5-9930cb432ed5.png)
+![image](https://user-images.githubusercontent.com/81352414/198837536-54bb9d26-1691-45da-8d15-2292409b9296.png)
+
+then open berlint and do the same as in wise
+
+![image](https://user-images.githubusercontent.com/81352414/198837615-182bab27-a964-478e-b2ce-59a53d68d4ab.png)
+![image](https://user-images.githubusercontent.com/81352414/198837646-6068b84d-d3c5-41b5-af24-e9c5f800ee79.png)
+
+and we open number 6 `www.operation.wise.i04.com`
+
+![image](https://user-images.githubusercontent.com/81352414/198837726-4271bbcc-f141-4ca7-a1ee-2a4743f30b00.png)
+
 
 
 
